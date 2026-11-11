@@ -13,7 +13,7 @@
 | | | |
 |---|---|---|
 | **[Mak'gora](https://passergames.com/makgora/)** · [source](https://github.com/tompassarelli/makgora) | A Smash-inspired platform fighter inside Warcraft III, with 26 characters, 10 stages, AI opponents, a frame-data training mode and rollback netcode. | Early access |
-| **[Tenebrae](https://passergames.com/tenebrae/)** · [source](https://github.com/Passer-Systems/greywrought) | A hardcore online RPG in the spirit of Classic. Each character gets one life, and in its turn-planned combat every enemy shows its next move. | In development |
+| **[Tenebrae](https://passergames.com/tenebrae/)** · [source](https://github.com/passergames/greywrought) | A hardcore online RPG in the spirit of Classic. Each character gets one life, and in its turn-planned combat every enemy shows its next move. | In development |
 
 ## Engine
 
